@@ -3,8 +3,7 @@
  # “IOT based Smart Helmet for Industrial Workers”
                  BACHELOR OF TECHNOLOGY
                            IN
-          ![Presentaation day photo (2)](https://github.com/IotchulindraRai/Smart_Halmet-for_Workers/assets/87846923/78fccd6b-788d-4948-bdcf-921cf4cb2196)
- COMPUTER SCIENCE AND SYSTEMS ENGINEERING
+           COMPUTER SCIENCE AND SYSTEMS ENGINEERING
                    (INTERNET OF THINGS)
                         VI Semester
                         
@@ -104,3 +103,4 @@ to make the positioning and falling detection of helmet. We also used rain senso
 6	Durability and Comfort: The smart helmet would be designed to withstand harsh environments and provide comfort to the wearer during long periods of use.
 
 # Presented by Chulindra Rai @2023 
+                buy me 🍵 a Coffee 8867303660@paytm
